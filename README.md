@@ -1,1 +1,7 @@
 # MieAyam
+
+**Komputasi**
+
+## miaw
+
+`hey`
